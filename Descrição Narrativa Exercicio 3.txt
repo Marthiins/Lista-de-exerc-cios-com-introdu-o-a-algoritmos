@@ -1,0 +1,10 @@
+Descrição Narrativa exercicio 3
+
+1 - Receber os dados da lata de Oleo
+2- Receber o volume da lata de oleo 
+3 - receber o raio 
+4 - Receber a Altura da lata de oleo 
+5 - solicitar o usuario a leitura dos dados
+6 - Calcular o volume
+7 - Mostrar o volume da lata de Oleo
+
